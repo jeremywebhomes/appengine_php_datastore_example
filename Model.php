@@ -1,6 +1,8 @@
 <?php
 /**
  * Model.php - Basic base class for Cloud DataStore Objects.
+ * add ability to do raw Gql
+ * add setIntergerProperty
  */
 
 require_once 'DatastoreService.php';
